@@ -1,0 +1,19 @@
+Commands for running files:
+
+my_tcpserver.c:
+ 	gcc my_tcpserver.c -o server
+ 	./server
+my_tcpclient.c: 
+	gcc my_tcpclient.c -o client
+	./client
+
+my_udpserver.c: 
+	gcc my_udpserver.c -o udpServer
+	./udpServer 1234
+my_udpclient.c:
+	gcc udp_client.c -o udpClient
+	./udpClient 1234
+
+
+
+
